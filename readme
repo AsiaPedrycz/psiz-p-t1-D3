@@ -110,3 +110,8 @@ void grzegorz_kowalczyk(void)
 {
         Grzegorz Kowalczyk
 }
+
+void joanna_pedrycz(void)
+{
+       Joanna Pedrycz
+}
